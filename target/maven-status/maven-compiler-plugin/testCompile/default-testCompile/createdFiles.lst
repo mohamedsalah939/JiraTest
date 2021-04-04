@@ -1,0 +1,4 @@
+Framwork\JiraTest\CreateIssue.class
+Framwork\JiraTest\SkipMandatoryField.class
+Framwork\JiraTest\ReadIssue.class
+Framwork\JiraTest\InvalidIssueType.class

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Framwork.JiraTest.InvalidIssueType"/>
+      <class name="Framwork.JiraTest.CreateIssue"/>
+      <class name="Framwork.JiraTest.SkipMandatoryField"/>
+      <class name="Framwork.JiraTest.ReadIssue"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
